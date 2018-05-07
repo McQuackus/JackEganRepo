@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Mayan.data.unityweb",
+"asmCodeUrl": "Mayan.asm.code.unityweb",
+"asmMemoryUrl": "Mayan.asm.memory.unityweb",
+"asmFrameworkUrl": "Mayan.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

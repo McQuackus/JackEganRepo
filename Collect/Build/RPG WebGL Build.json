@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RPG WebGL Build.data.unityweb",
+"asmCodeUrl": "RPG WebGL Build.asm.code.unityweb",
+"asmMemoryUrl": "RPG WebGL Build.asm.memory.unityweb",
+"asmFrameworkUrl": "RPG WebGL Build.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
